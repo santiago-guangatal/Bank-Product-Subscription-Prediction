@@ -1,6 +1,6 @@
 # Bank Marketing Prediction (LightGBM + Logistic Regression)
 
-This project builds a machine learning pipeline to predict whether a customer will subscribe to a term deposit based on the **Bank Marketing dataset**.  
+This project builds a machine learning pipeline to predict whether a customer will subscribe to a term deposit based on the **[Bank Marketing Dataset on Kaggle](https://www.kaggle.com/competitions/playground-series-s5e8/data)**.  
 
 It combines **feature engineering (FE)**, **LightGBM leaf encoding**, and a **logistic regression classifier**, with hyperparameter optimization using **Optuna**.
 
